@@ -1,0 +1,14 @@
+/home/svbeck/repos/csnet/ExerciseApi/bin/Debug/netcoreapp2.1/ExerciseApi.deps.json
+/home/svbeck/repos/csnet/ExerciseApi/bin/Debug/netcoreapp2.1/ExerciseApi.runtimeconfig.json
+/home/svbeck/repos/csnet/ExerciseApi/bin/Debug/netcoreapp2.1/ExerciseApi.runtimeconfig.dev.json
+/home/svbeck/repos/csnet/ExerciseApi/bin/Debug/netcoreapp2.1/ExerciseApi.dll
+/home/svbeck/repos/csnet/ExerciseApi/bin/Debug/netcoreapp2.1/ExerciseApi.pdb
+/home/svbeck/repos/csnet/ExerciseApi/obj/Debug/netcoreapp2.1/ExerciseApi.csprojAssemblyReference.cache
+/home/svbeck/repos/csnet/ExerciseApi/obj/Debug/netcoreapp2.1/ExerciseApi.csproj.CoreCompileInputs.cache
+/home/svbeck/repos/csnet/ExerciseApi/obj/Debug/netcoreapp2.1/ExerciseApi.RazorAssemblyInfo.cache
+/home/svbeck/repos/csnet/ExerciseApi/obj/Debug/netcoreapp2.1/ExerciseApi.RazorAssemblyInfo.cs
+/home/svbeck/repos/csnet/ExerciseApi/obj/Debug/netcoreapp2.1/ExerciseApi.AssemblyInfoInputs.cache
+/home/svbeck/repos/csnet/ExerciseApi/obj/Debug/netcoreapp2.1/ExerciseApi.AssemblyInfo.cs
+/home/svbeck/repos/csnet/ExerciseApi/obj/Debug/netcoreapp2.1/ExerciseApi.RazorTargetAssemblyInfo.cache
+/home/svbeck/repos/csnet/ExerciseApi/obj/Debug/netcoreapp2.1/ExerciseApi.dll
+/home/svbeck/repos/csnet/ExerciseApi/obj/Debug/netcoreapp2.1/ExerciseApi.pdb
